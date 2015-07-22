@@ -1,1 +1,2 @@
-# pure
+# Zest
+Ecommerce Template
