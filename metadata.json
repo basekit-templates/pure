@@ -67,7 +67,7 @@
         "font1": {
             "font-family": "\"Quicksand\", \"Raleway\", \"Lucida Grande\", Helvetica, sans-serif",
             "font-size": "26px",
-            "font-weight": "700",
+            "font-weight": "400",
             "line-height": "35px",
             "color": "@color-swatch4",
             "letter-spacing": "inherit"
@@ -75,7 +75,7 @@
         "font2": {
             "font-family": "\"Quicksand\", \"Raleway\", \"Lucida Grande\", Helvetica, sans-serif",
             "font-size": "24px",
-            "font-weight": "700",
+            "font-weight": "400",
             "line-height": "33px",
             "color": "@color-swatch4",
             "letter-spacing": "inherit"
@@ -83,7 +83,7 @@
         "font3": {
             "font-family": "\"Quicksand\", \"Raleway\", \"Lucida Grande\", Helvetica, sans-serif",
             "font-size": "22px",
-            "font-weight": "700",
+            "font-weight": "400",
             "line-height": "30px",
             "color": "@color-swatch4",
             "letter-spacing": "inherit"
@@ -91,7 +91,7 @@
         "font4": {
             "font-family": "\"Quicksand\", \"Raleway\", \"Lucida Grande\", Helvetica, sans-serif",
             "font-size": "19px",
-            "font-weight": "700",
+            "font-weight": "400",
             "line-height": "25px",
             "color": "@color-swatch4",
             "letter-spacing": "inherit"
