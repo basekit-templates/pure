@@ -1,9 +1,8 @@
 {
-    "name": "Zest",
+    "name": "Pure",
     "widgetVersion":2,
-    "thumbnail": "zest.png",
-    "screenshot": "zest.png",
-    "screenshot":"zest-screenshot.jpg",
+    "thumbnail": "pure.png",
+    "screenshot":"pure-screenshot.png",
     "templateType":"ecommerce",
     "pageTypes": ["home"],
     "tags": {
@@ -64,7 +63,7 @@
         }
     },
     "fontSwatch": {
-       "title": "Arvo, PT Sans",
+       "title": "Quicksand",
         "font1": {
             "font-family": "\"Quicksand\", \"Raleway\", \"Lucida Grande\", Helvetica, sans-serif",
             "font-size": "26px",
