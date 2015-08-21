@@ -206,10 +206,12 @@ textarea {
         font-size: bkscale(@font-swatch7-font-size, 0.8);
     }
 
-    &:hover, &:focus {
+    &:hover {
         background-color: transparent;
     }
-
+    &:focus {
+        background-color: @color-swatch1;
+    }
 }
 
 .select::-ms-expand {
